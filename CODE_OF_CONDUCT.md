@@ -55,14 +55,10 @@ Organizers reserve the right to take appropriate action in response to violation
 - Removal from community platforms
 - Restrictions from attending future events
 
-Our goal is not punishment but ensuring that the community remains safe and welcoming for everyone.
+Our goal is to ensure that the community remains safe and welcoming for everyone.
 
 ## External Policies
 
 GDG events also follow the official GDG participation terms and community guidelines:
 
 https://gdg.community.dev/participation-terms/
-
-CodeDay Lucknow events follow the official CodeDay Code of Conduct:
-
-https://www.codeday.org/conduct
