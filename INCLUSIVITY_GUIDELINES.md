@@ -35,9 +35,7 @@ Whenever possible, we try to:
 
 ## Financial Accessibility
 
-We try to keep community events free whenever possible. When events require a fee, we aim to keep costs as low as possible and explore options such as sponsorships or community support to reduce financial barriers.
-
-This is especially important in communities such as CodeDay Lucknow, where many participants are high school students who may not have the resources to attend expensive events.
+We try to keep community events free whenever possible. When events require a fee, we aim to keep costs as low as possible and explore sponsorship opportunities to reduce financial barriers for students.
 
 ## Continuous Improvement
 
