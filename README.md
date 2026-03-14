@@ -1,6 +1,6 @@
 # GDG on Campus Purdue University Fort Wayne Community Documentation
 
-This repository contains community guidelines and documentation for **GDG on Campus Purdue University Fort Wayne**.
+This repository contains community documentation and guidelines for **GDG on Campus Purdue University Fort Wayne**.
 
 Our goal is to create an inclusive and collaborative environment where students can explore modern technologies, build real-world projects, and support each other in developing technical skills and confidence.
 
@@ -13,16 +13,16 @@ Our community welcomes students from all backgrounds and skill levels. Whether s
 Our activities include:
 
 - Hackathons and collaborative project events
-- Watch parties for major Google developer conferences and technical talks
+- Watch parties for Google developer conferences and technical talks
 - Technical discussions and peer support through our Discord community
 - Partnerships with other campus organizations such as ACM
 - Participation in campus society fairs and outreach events
 
-We currently have **200+ members** from a variety of majors, including computer science, engineering, and other technical disciplines.
+We currently have **200+ members** from a variety of majors including computer science, engineering, and other technical disciplines.
 
 ## Community Platforms
 
-Members typically interact through the following platforms:
+Members interact through the following platforms:
 
 - Discord community server
 - GDG Community platform
@@ -31,12 +31,6 @@ Members typically interact through the following platforms:
 - In-person events
 
 These platforms allow members to ask technical questions, share projects, collaborate with others, and stay informed about upcoming events.
-
-## Secondary Community Involvement
-
-In addition to leading GDG on Campus Purdue University Fort Wayne, I also help organize **CodeDay Lucknow** during the summer months. CodeDay Lucknow introduces high school students to computer science through a collaborative event where participants learn technology and build projects together.
-
-While CodeDay Lucknow is a separate community, both initiatives share the same core values of inclusivity, learning, and collaboration.
 
 ## Community Documentation
 
